@@ -304,5 +304,3 @@ From formation to tax filing,
 -----------------------------------------------------------------
 
 Everything you need to manage, organize, and grow your business with ease.
-
-[![Image 7](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Image 8: Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://webflow.com/?utm_campaign=brandjs)
