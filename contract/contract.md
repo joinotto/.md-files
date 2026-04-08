@@ -1,21 +1,14 @@
-Title: Free AI Contract Generator | Create Contracts Quickly
-
-URL Source: https://joinotto.com/contract
-
-Markdown Content:
-Free Contract Generator for 
+## Free Contract Generator for 
 
 Small Business
---------------------------------------------
 
 Create, customize, and sign legal contracts in minutes with Our AI contract generator and free contract templates, built for creative professionals. Manage your projects confidently with tailored, secure agreements.
 
 [Free Contract Generator](https://app.joinotto.com/auth/signup?utm_source=contract&utm_medium=cta&utm_campaign=conversion&utm_content=h1-free-contract-generator "Free Contract Generator")
 
-Stress Free Contracts for Self 
+## Stress Free Contracts for Self 
 
 Employed Entrepreneurs
--------------------------------------------------------
 
 Simplify your contracts, stay organized, and stay focused on your work, stress-free and easy.
 
@@ -28,10 +21,6 @@ No more blank-page paralysis. Otto AI contract generator gives you fast, flexibl
 *   Upload an existing PDF or start with a clean document
 
 *   Describe the deal in plain English, Otto AI drafts it for you
-
-![Image 1: Otto AI Contract Generator](https://assets.joinotto.com/flexible-contract-creation-image-1.webp)
-
-![Image 2: Free Contract Generator](https://assets.joinotto.com/personalized-agreements-image-2.webp)
 
 ### Make Edits Without Breaking the Document
 
@@ -55,10 +44,6 @@ Otto AI contract generator makes it easy to deliver, sign, and share contracts, 
 
 *   Download or export finalized contracts in PDF
 
-![Image 3: Online Contract Generator](https://assets.joinotto.com/binding-e-signatures-image-3.webp)
-
-![Image 4: Contract for Small Business](https://assets.joinotto.com/ai-contracts-image-4.webp)
-
 ### Know What’s Signed. Find What’s Missing
 
 Otto AI keeps your contracts centralized and trackable—so you always know what’s been sent, what’s pending, and where to find the final version.
@@ -69,10 +54,9 @@ Otto AI keeps your contracts centralized and trackable—so you always know what
 
 *   Ask Otto AI for guidance on language, structure, or compliance
 
-How to Create a Contract 
+## How to Create a Contract 
 
 in 3 Simple Steps
---------------------------------------------
 
 Create, track, and sign agreements quickly, so you stay legally covered with zero hassle.
 
@@ -100,8 +84,7 @@ Sign & Stay Compliant
 
 Collect secure e-signatures, store contracts safely, and stay audit-ready with everything organized in one place.
 
-Contract Features That Save You Time
-------------------------------------
+## Contract Features That Save You Time
 
 Built-in features that keep your workflow fast, no plug-ins or awkward workarounds.
 
@@ -141,20 +124,17 @@ Track drafts, sent contracts, and edits at a glance.
 
 Send, sign, and seal deals without switching platforms.
 
-Free Contract Templates and Agreements
---------------------------------------
+## Free Contract Templates and Agreements
 
 Create, send, and sign contracts from a library of legal contract templates made for real business use.
 
-From Smart Categorization to Tax
+## From Smart Categorization to Tax
 
 Prep—Otto Has You Covered
------------------------------------------------------------
 
 Comprehensive financial solutions for your business needs.
 
-The reviews are in.
--------------------
+## The reviews are in.
 
 Straight from our customers—how Otto is changing the way creative businesses manage money.
 
@@ -162,14 +142,27 @@ Owner of Photography Business
 
 "Otto's real-time insights have been incredible for cash flow management and decision-making. The platform is user-friendly, and the team is extremely on top of everything.”
 
-![Image 5: Preston Tietjen](https://cdn.prod.website-files.com/66d80d61bcbc2701c640232c/67cab19ee6280a58dfe72b75_preston-tietjen.png)
+Owner of Design Company
+
+“I’m excited to help Otto reach more creators because every creative deserves access to the tools and support they need to grow their businesses and focus on what they love—creating.”
+
+Sophia Yeshi
+
+Illustrator & Designer
+
+Owner of Production Company
+
+"Keeping my finances stable is crucial, and Otto helps me earn more and pay less in taxes. With its focus on creatives, I keep more of what I earn, fueling my business and creativity."
+
+Kai Byrd
+
+Photographer, Creative Director
 
 
 
 
 
-Contract FAQs
--------------
+## Contract FAQs
 
 ### How can an AI Contract Generator help me create contracts faster?
 
@@ -230,5 +223,3 @@ The contract generator ties agreements directly to invoicing, contracts link to 
 
 
 Yes. Upload any PDF contract and the AI contract generator converts it into an editable contract template. This AI-powered process makes updating or customizing existing agreements simple, saving you time and effort.
-
-[![Image 6](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Image 7: Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://webflow.com/?utm_campaign=brandjs)
